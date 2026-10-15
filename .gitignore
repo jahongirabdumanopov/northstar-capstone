@@ -86,3 +86,6 @@ keystore-passwords.txt
 ProjectSettings/Packages/com.unity.probuilder/Settings.json
 *.blend1
 *.blend1.meta
+
+# Assignment 3 control room session recordings
+/ControlRoomSessions/
